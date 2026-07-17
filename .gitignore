@@ -1,0 +1,1 @@
+Nothing should be ignored based on the provided file changes. The modification of 'index.html' is a standard web development file that should be tracked in version control. No build artifacts, dependencies, or temporary files are present in the changes to warrant adding ignore rules.
